@@ -2,6 +2,8 @@
 
 ## 🚀 Quick Setup (3 Steps)
 
+Check here to visit the Project: https://student-management-details.vercel.app/
+
 ### Step 1 — Download & Extract
 Download all 3 files and place them in ONE folder:
 ```
